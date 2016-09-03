@@ -16,5 +16,4 @@ Built using traditional HTML5 and vanilla JavaScript that simulates the retrieva
 ### API
 For the scope of this demo, we will be retrieving a static JSON file instead of a real API. This is only to keep things simple and in the real world you would query an API or use web sockets.
 
-### Demo
-https://warislaigeek.github.io/PWA/demo/
+### Demo(a href="https://warislaigeek.github.io/PWA/demo/" target="blank")
