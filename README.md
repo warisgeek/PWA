@@ -18,4 +18,4 @@ For the scope of this demo, we will be retrieving a static JSON file instead of 
 
 ### Demo
 
-https://warislaigeek.github.io/PWA/demo/
+https://warisgeek.github.io/PWA/demo/
