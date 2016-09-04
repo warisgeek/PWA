@@ -1,6 +1,7 @@
 # PWA Tutorial
 A simple progressive web application that demonstrates the use of Service Workers, Cache API and offline functionality; the use of a Manifest for Web and Add to Homescreen.
 
+
 ## Progressive Web Apps
 Progressive Web Applications take advantage of the latest technologies to combine the best of web and mobile apps; think of it as a website built using web technologies but which acts and feels like an app. Recent advancements in the browser and the availability of service workers, the Cache and the Push APIs, have given web developers the possibility to install web apps to the home screen, receive push notifications and even work offline.
 
@@ -15,6 +16,8 @@ Built using traditional HTML5 and vanilla JavaScript that simulates the retrieva
 
 ### API
 For the scope of this demo, we will be retrieving a static JSON file instead of a real API. This is only to keep things simple and in the real world you would query an API or use web sockets.
+
+###Applications with push notifications achieve up to three times more retention than their counterparts without push
 
 ### Demo
 
