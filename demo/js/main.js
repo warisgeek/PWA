@@ -17,7 +17,7 @@ window.addEventListener('online', function(e) {
 window.addEventListener('offline', function(e) {
     // queue up events for server
     console.log("You are offline");
-   // Page.showOfflineWarning();
+   Page.showOfflineWarning();
 }, false);
 
 // check if the user is connected
