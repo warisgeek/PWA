@@ -1,25 +1,37 @@
-[{
-    "title": "Malta to Amsterdam",
+[
+  {
+    "title": "Waris Ali",
     "status": "On time",
     "time": "08:45"
-}, {
-    "title": "Malta to London",
+  },
+  {
+    "title": "Nagraj Gondi",
     "status": "Delayed",
-    "time": "09:45"
-}, {
-    "title": "Malta to Poznan",
+    "time": "10:45"
+  },
+  {
+    "title": "Kartik Gargi",
     "status": "On time",
     "time": "10:00"
-}, {
-    "title": "Malta to London",
+  },
+  {
+    "title": "Vinay",
     "status": "On time",
-    "time": "11:45"
-}, {
-    "title": "Malta to Rome",
+    "time": "09:45"
+  },
+  {
+    "title": "Sayed",
     "status": "On time",
-    "time": "12:05"
-}, {
-    "title": "Malta to Paris",
+    "time": "10:05"
+  },
+  {
+    "title": "Subhani",
     "status": "Delayed",
-    "time": "12:35"
-}]
+    "time": "10:15"
+  },
+  {
+    "title": "Satish",
+    "status": "Delayed",
+    "time": "10:15"
+  }
+]

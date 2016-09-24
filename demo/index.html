@@ -1,21 +1,19 @@
 ﻿<!DOCTYPE html>
 <html class="js no-touchevents" lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sky-High Airport Arrivals</title>
+    <title>Iprocess Office Arrivals Report</title>
     <link async rel="stylesheet" href="./css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,600,300italic,600italic" rel="stylesheet" type="text/css">
     <link rel="manifest" href="./manifest.json">
     <meta name="theme-color" content="#29BDBB">
     <link rel="icon" sizes="192x192" href="./launcher-icon-8x.png">
 </head>
-
 <body>
     <header>
-        <div class="content">
-            <h3>Arrivals</h3>
+        <div class="content">           
+                <h3>Iprocess Office Arrivals Report</h3>
         </div>
     </header>
     <div class="container">
@@ -29,11 +27,15 @@
             </ul>
         </div>
     </div>
+    <label class="switch" title="Enable Push Messages" >
+        <!--class="js-push-button"-->
+        <input type="checkbox" class="js-push-button"  title="Enable Push Messages">
+        <div class="slider round" style="width:10%;height:35px;margin-left:90%"></div>
+    </label>
     <script src="./js/vendor/knockout-3.3.0.js"></script>
     <script src="./js/page.js"></script>
     <script src="./js/arrivals.js"></script>
     <script src="./js/main.js"></script>
-  
-</body>
 
+</body>
 </html>

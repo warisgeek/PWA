@@ -1,6 +1,6 @@
 ﻿{
-  "short_name": "Arrivals",
-  "name": "Arrivals at Sky High",
+  "background_color": "#29BDBB",
+  "display": "standalone",
   "icons": [
     {
       "src": "launcher-icon.png",
@@ -23,9 +23,16 @@
       "type": "image/png"
     }
   ],
-  "start_url": "./",
-  "display": "standalone",
+  "name": "Iprocess Office Arrivals Report",
   "orientation": "portrait",
+  "short_name": "Arrivals",
+  "start_url": "./",
   "theme_color": "#29BDBB",
-  "background_color": "#29BDBB"
+  
+  "permissions": [
+    "gcm",
+    "storage"
+  ],
+  "gcm_sender_id": "301959113628",
+  "gcm_user_visible_only": true
 }

@@ -9,6 +9,7 @@ self.addEventListener('install', function (e) {
             return cache.addAll([
                 './',
                 './css/style.css',
+                './api/data.json',
                 './js/vendor/knockout-3.3.0.js',
                 './js/page.js',
                 './js/arrivals.js',
@@ -36,3 +37,4 @@ self.addEventListener('fetch', function (event) {
         })
     );
 });
+
